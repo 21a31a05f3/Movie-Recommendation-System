@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Welcome to the Movie Recommendation App — a full-stack web application crafted to recommend movies based on user preferences, with stunning visuals sourced from the TMDB API.
 
 This project stands on the shoulders of proven enterprise technologies:
@@ -128,3 +129,7 @@ Open source developers who inspire daily innovation
 
 
 
+=======
+# Movie-Recommendation-System
+My Angular frontend and C# backend project
+>>>>>>> 5b4b3907e0feb53d6370841a563056c6271b5864
